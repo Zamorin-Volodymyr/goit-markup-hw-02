@@ -110,6 +110,12 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+
+.team-card {
+  background-color: #ffffff;
 }
 
 .team-member {
