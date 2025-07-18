@@ -41,10 +41,6 @@ a {
 }
 
 .button {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
   background: #4d5ae5;
   color: #fff;
 }
@@ -130,6 +126,14 @@ a {
 
 .page-footer {
   background: #2e2f42;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.footer-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
